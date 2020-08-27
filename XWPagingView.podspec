@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'XWPagingView'
   s.version          = '0.0.1'
-  s.summary          = 'XWPagingView'
+  s.summary          = 'XWPagingView m   '
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -27,7 +27,7 @@ TODO: Add long description of the pod here.
   s.author           = { 'icc' => '1097171985@qq.com' }
   s.source           = { :git => 'https://github.com/icc-tips/XWPagingView.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
-pod
+
   s.ios.deployment_target = '9.0'
 
   #s.public_header_files = 'XWPagingView/Classes/XWPageTitle/XWPagingView.h'

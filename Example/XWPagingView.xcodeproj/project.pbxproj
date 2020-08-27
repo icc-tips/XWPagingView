@@ -246,6 +246,9 @@
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = 1097171985;
 				TargetAttributes = {
+					6003F589195388D20070C39A = {
+						DevelopmentTeam = 8Z6Z2554TT;
+					};
 					6003F5AD195388D20070C39A = {
 						TestTargetID = 6003F589195388D20070C39A;
 					};
@@ -256,6 +259,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -466,6 +470,7 @@
 			baseConfigurationReference = 16D3F62537EDF15ACCD349AC /* Pods-XWPagingView_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8Z6Z2554TT;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "XWPagingView/XWPagingView-Prefix.pch";
 				INFOPLIST_FILE = "XWPagingView/XWPagingView-Info.plist";
@@ -481,6 +486,7 @@
 			baseConfigurationReference = C624AEB81E0C6F7DB73F5E35 /* Pods-XWPagingView_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8Z6Z2554TT;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "XWPagingView/XWPagingView-Prefix.pch";
 				INFOPLIST_FILE = "XWPagingView/XWPagingView-Info.plist";
