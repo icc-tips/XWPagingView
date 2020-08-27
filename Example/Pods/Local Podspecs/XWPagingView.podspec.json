@@ -1,0 +1,27 @@
+{
+  "name": "XWPagingView",
+  "version": "0.0.2",
+  "summary": "XWPagingView. 仿SGPagingView",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "http://gitlab.51geshui.com:10080/XWModule/XWPagingView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wujiafeng": "wujiafeng@51geshui.com"
+  },
+  "source": {
+    "git": "http://gitlab.51geshui.com:10080/XWModule/XWPagingView.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "XWPagingView/Classes/**/*.{h,m}",
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  }
+}

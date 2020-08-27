@@ -1,0 +1,14 @@
+
+platform :ios, '9.0'
+
+target 'XWPagingView_Example' do
+  pod 'XWPagingView', :path => '../'
+
+  pod 'Masonry'
+  
+  target 'XWPagingView_Tests' do
+    inherit! :search_paths
+
+  
+  end
+end

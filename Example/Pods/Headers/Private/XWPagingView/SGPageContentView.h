@@ -1,0 +1,1 @@
+../../../../../XWPagingView/Classes/XWPageContent/SGPageContentView.h

@@ -1,0 +1,24 @@
+PODS:
+  - Masonry (1.1.0)
+  - XWPagingView (0.0.2):
+    - Masonry
+
+DEPENDENCIES:
+  - Masonry
+  - XWPagingView (from `../`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Masonry
+
+EXTERNAL SOURCES:
+  XWPagingView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  XWPagingView: 56e30e3f72ca8f0c9c5254ee57bd8fa4436a66a9
+
+PODFILE CHECKSUM: c7714e9b9a290e4e6e533208ee86ebd4dc31999b
+
+COCOAPODS: 1.8.4

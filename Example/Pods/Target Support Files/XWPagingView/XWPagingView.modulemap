@@ -1,0 +1,6 @@
+framework module XWPagingView {
+  umbrella header "XWPagingView-umbrella.h"
+
+  export *
+  module * { export * }
+}
